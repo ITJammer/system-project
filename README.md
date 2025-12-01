@@ -1,1 +1,8 @@
-# system-project
+ONLINE LOST AND FOUND SYSTEM IN THE UNIVERSITY OF EASTERN PHILIPPINES
+
+GROUP MEMBERS:
+ESPELIMBERGO, MELDRELYN A.
+GOMBA, ANGELA A.
+QUINAO, NAUME B.                                                                 
+ALLEGO, ROZIELL ANNE P.                       
+DECOLAWAN, BLYTHE DELLE 
